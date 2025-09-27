@@ -1,6 +1,6 @@
-if SHIELD_TRIAL
+if SHIELD_TEMPT
 
 config ZMK_KEYBOARD_NAME
-    default "trial"
+    default "tempt"
 
 endif
